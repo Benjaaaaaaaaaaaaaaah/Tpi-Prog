@@ -1,0 +1,13 @@
+Olimpo,Zona Oeste
+Argentinos,Zona Oeste
+Lamber,Zona Oeste
+Independiente,Zona Oeste
+Recreativo,Zona Oeste
+G.Renny,Zona Oeste
+Atletico,Zona Oeste
+Talleres,Zona Este
+Lagunense,Zona Este
+Sarmiento,Zona Este
+Atenas,Zona Este
+Newbery,Zona Este
+Chazon,Zona Este
