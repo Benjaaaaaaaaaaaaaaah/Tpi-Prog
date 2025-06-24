@@ -1,0 +1,3 @@
+TPI V1 ----> creamos la estructura del programa, agregando las clases, el visual, controlador, y creando el menú con su funcionamiento.
+TPI V2 ----> arreglos de comentar el código y funcionamiento del mismo.
+TPI V3 ----> arreglo de estética visual al momento de jugar la jornada.
